@@ -1,2 +1,7 @@
-package PointSalad.Models;public interface Card {
+package PointSalad.Models;
+
+public interface Card {
+    String getDescription();
+    boolean isCriteriaSideUp();
+    VegetableCard.Vegetable getVegetable();
 }
