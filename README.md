@@ -68,6 +68,8 @@ Point Salad is played with 108 cards that have two sides: a vegetable side and a
   - Draft two vegetable cards from the market.
 - **Scoring:** Based on the point cards in your hand, calculate your score using your veggies.
 - **Winner:** The player with the most points at the end of the game wins!
+  
+For detailed rules, check out the [Point Salad Rulebook](assets/PointSalad_RuleBook.pdf).
 
 ## 🔧 Tech Stack
 
@@ -85,5 +87,4 @@ This game is designed with extensibility in mind to easily support new variation
 - Enhanced AI for bot players
 
 ## 📄 License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE file](LICENSE) for details.
