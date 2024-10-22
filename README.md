@@ -69,7 +69,7 @@ Point Salad is played with 108 cards that have two sides: a vegetable side and a
 - **Scoring:** Based on the point cards in your hand, calculate your score using your veggies.
 - **Winner:** The player with the most points at the end of the game wins!
   
-For detailed rules, check out the [Point Salad Rulebook](assets/PointSalad_RuleBook.pdf).
+For detailed rules, check out the [Point Salad Rulebook](assets/PointSalad_Rulebook.pdf).
 
 ## 🔧 Tech Stack
 
