@@ -80,7 +80,7 @@ For detailed rules, check out the [Point Salad Rulebook](assets/PointSalad_RuleB
 
 ## 📚 Future Expansion
 
-This game is designed with extensibility in mind to easily support new variations like Point City. Future expansions could introduce:
+This game is designed with extensibility in mind to easily support new variations like [Point City](assets/PointCity_RuleBook_web.pdf). Future expansions could introduce:
 
 - Additional card mechanics
 - New types of player interactions
